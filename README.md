@@ -17,6 +17,8 @@ What things you need to run this Ansible playbook :
 ```
 vagrant box add https://app.vagrantup.com/ubuntu/boxes/xenial64
 ```
+* Change to `tests directory`
+
 
 ### Usage
 
